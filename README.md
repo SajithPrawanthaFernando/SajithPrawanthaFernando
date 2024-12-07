@@ -11,7 +11,7 @@
 - 👨‍💻 **Portfolio:** [Visit My Portfolio](https://sajithprawanthafernando.github.io/Portfolio_Sajith_Fernando/)  
 - 💬 **Ask Me About:** React, React Native, MERN Stack  
 - 📫 **Reach Me At:** [sajithprawanthafernando@gmail.com](mailto:sajithprawanthafernando@gmail.com)  
-- 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1pMdTZflImmO8D-uXM-E4SKDTzJe46CYi/view?usp=sharing)
+- 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1pMdTZflImmO8D-uXM-E4SKDTzJe46CYi/view?usp=sharing)  
 - 🚀 **Fun fact:** I love exploring new frameworks and building creative solutions for real-world problems!
 
 ---
@@ -39,6 +39,11 @@
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
 ---

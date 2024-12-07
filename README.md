@@ -1,4 +1,4 @@
-[![MasterHead](https://www.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_26195939.htm#fromView=search&page=1&position=16&uuid=3f7e5c8a-3f63-4917-abf5-c9a9f8967f9d)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Sajith Fernando</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 

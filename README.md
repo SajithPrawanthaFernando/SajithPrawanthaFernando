@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://sajithprawanthafernando.github.io/Portfolio_Sajith_Fernando/)
+<img src="programmer_text_2.jpg" alt="MasterHead" width="100%" />
+(https://sajithprawanthafernando.github.io/Portfolio_Sajith_Fernando/)
 <h1 align="center">Hi there 👋, I'm Sajith Fernando</h1>
 <h3 align="center">An enthusiastic Full-Stack Web Developer striving to master modern technologies and create impactful solutions</h3>
 
@@ -7,16 +8,18 @@
 ---
 
 ### 📚 About Me:
-- 🌱 **Currently Learning:** Redux for state management  
-- 👨‍💻 **Portfolio:** [Visit My Portfolio](https://sajithprawanthafernando.github.io/Portfolio_Sajith_Fernando/)  
-- 💬 **Ask Me About:** React, React Native, MERN Stack  
-- 📫 **Reach Me At:** [sajithprawanthafernando@gmail.com](mailto:sajithprawanthafernando@gmail.com)  
-- 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1pMdTZflImmO8D-uXM-E4SKDTzJe46CYi/view?usp=sharing)  
+
+- 🌱 **Currently Learning:** Redux for state management
+- 👨‍💻 **Portfolio:** [Visit My Portfolio](https://sajithprawanthafernando.github.io/Portfolio_Sajith_Fernando/)
+- 💬 **Ask Me About:** React, React Native, MERN Stack
+- 📫 **Reach Me At:** [sajithprawanthafernando@gmail.com](mailto:sajithprawanthafernando@gmail.com)
+- 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1pMdTZflImmO8D-uXM-E4SKDTzJe46CYi/view?usp=sharing)
 - 🚀 **Fun fact:** I love exploring new frameworks and building creative solutions for real-world problems!
 
 ---
 
 ### 🌐 Connect With Me:
+
 <p align="left">
   <a href="https://linkedin.com/in/sajith-fernando-384934265" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -26,6 +29,7 @@
 ---
 
 ### 🛠️ Languages and Tools:
+
 <p>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
@@ -66,6 +70,7 @@
 ---
 
 ### 📊 Stats:
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajithprawanthafernando&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>

@@ -3,7 +3,7 @@
 </a>
 
 <h1 align="center">Hi there 👋, I'm Sajith Fernando</h1>
-<h3 align="center">An enthusiastic Full-Stack Web Developer striving to master modern technologies and create impactful solutions</h3>
+<h3 align="center">An enthusiastic Full-Stack Developer striving to master modern technologies and create impactful solutions</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
@@ -25,6 +25,9 @@
 <p align="left">
   <a href="https://linkedin.com/in/sajith-fernando-384934265" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://t.me/SajithPrawanthaFernando" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
 

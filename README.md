@@ -1,12 +1,8 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://sajithprawanthafernando.github.io/Portfolio_Sajith_Fernando/)
-<h1 align="center">Hi 👋, I'm Sajith Fernando</h1>
-<h3 align="center">A passionate Full-Stack Developer from Sri Lanka</h3>
+<h1 align="center">Hi there 👋, I'm Sajith Fernando</h1>
+<h3 align="center">An enthusiastic Full-Stack Web Developer striving to master modern technologies and create impactful solutions</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sajithprawanthafernando&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
 
 ---
 
@@ -16,6 +12,7 @@
 - 💬 **Ask Me About:** React, React Native, MERN Stack  
 - 📫 **Reach Me At:** [sajithprawanthafernando@gmail.com](mailto:sajithprawanthafernando@gmail.com)  
 - 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1pMdTZflImmO8D-uXM-E4SKDTzJe46CYi/view?usp=sharing)
+- 🚀 **Fun fact:** I love exploring new frameworks and building creative solutions for real-world problems!
 
 ---
 
@@ -59,4 +56,14 @@
 
 ---
 
-<p align="center">🚀 Let's connect and build amazing projects together!</p>
+<p align="center">
+  I am passionate about solving real-world problems using technology. My expertise lies in building responsive web applications, creating scalable backend systems, and continuously learning to improve my skills in full-stack development.
+</p>
+
+<p align="center">
+  🚀 Let's connect and collaborate on exciting projects!
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sajithprawanthafernando&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>

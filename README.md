@@ -20,24 +20,12 @@
 
 ---
 
-<style>
-  p {
-    margin: 0; /* Removes default margins */
-    padding: 0; /* Removes default padding */
-  }
-  a {
-    text-decoration: none; /* Ensures no underlines or borders in links */
-  }
-</style>
-
 ### 🌐 Connect With Me:
 <p align="left">
   <a href="https://linkedin.com/in/sajith-fernando-384934265" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://t.me/SajithPrawanthaFernando" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
+
 </p>
 
 ---

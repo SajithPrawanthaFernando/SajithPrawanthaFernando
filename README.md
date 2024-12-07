@@ -1,5 +1,7 @@
-<img src="programmer_text_2.jpg" alt="MasterHead" width="100%" />
-(https://sajithprawanthafernando.github.io/Portfolio_Sajith_Fernando/)
+<a href="https://sajithprawanthafernando.github.io/Portfolio_Sajith_Fernando/" target="_blank">
+  <img src="programmer_text_2.jpg" alt="MasterHead" width="100%" />
+</a>
+
 <h1 align="center">Hi there 👋, I'm Sajith Fernando</h1>
 <h3 align="center">An enthusiastic Full-Stack Web Developer striving to master modern technologies and create impactful solutions</h3>
 
